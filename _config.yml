@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-1352-6311"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,16 +57,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : adelazhong
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : ying-z-245563132
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,12 +74,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : yingzhong9
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : zhongadela6647
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings

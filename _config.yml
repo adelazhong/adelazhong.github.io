@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ying Zhong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Tsukuba, Japan"
+  employer         : "Tsukuba University of Technology "
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ying@a.tsukuba-tech.ac.jp" 
 
   # Academic websites
   academia         : # URL

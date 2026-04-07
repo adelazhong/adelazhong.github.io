@@ -21,8 +21,6 @@ and AI-assisted communication systems, and apply them to real-world
 service encounters, public events, and daily living environments.
 Apart from research activities, My hobbies are cooking, music instruments(guitar and ukulele), ballet and movies.
 
----
-
 ## Research Interests
 - Accessibility and Assistive Technology  
 - Human-AI Interaction  

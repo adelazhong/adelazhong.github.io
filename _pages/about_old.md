@@ -28,7 +28,7 @@ Apart from research activities, My hobbies are cooking, music instruments(guitar
 - Human-in-loop AI 
 - Crowdsoucing
 
----
+
 
 ## Teaching
 
@@ -49,7 +49,7 @@ Student supervision:
 - Undergraduate research projects
 - Graduation thesis supervision
 
----
+
 
 ## Academic Service
 
@@ -63,6 +63,8 @@ University Service:
 Conference Service:
 
 - Web & Media Co-Chair, ICADL 2020
+
+--
 
 日本語：https://researchmap.jp/ying_zhong　
 

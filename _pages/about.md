@@ -4,8 +4,8 @@ author_profile: true
 permalink: /
 title: "Ying Zhong"
 redirect_from: 
-  - /about_old/
-  - /about_old.html
+  - /about/
+  - /about.html
 ---
 
 ## About

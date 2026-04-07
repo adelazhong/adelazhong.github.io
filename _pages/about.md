@@ -66,4 +66,6 @@ Conference Service:
 
 - Web & Media Co-Chair, ICADL 2020
 
+日本語：https://researchmap.jp/ying_zhong　
+
 

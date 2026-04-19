@@ -43,6 +43,8 @@ Courses:
 - Database Design (Lecture and Exercises) (NTUT)
 - Linear Algebra 1/2 (NTUT)
 - Applied Mathematics B (NTUT)
+- Advanced Information and Communication Science (NTUT)
+- Advanced Topics in Intelligent Information Processing (NTUT)
 
 Student supervision:
 
